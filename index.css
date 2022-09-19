@@ -1,0 +1,11 @@
+html, header, body {
+  margin: 50%;
+  padding: 30%;
+  border: 10%;
+}
+
+.btnOk {
+  padding: 20%;
+  border-bottom: 10%;
+  size: 10%;
+}
